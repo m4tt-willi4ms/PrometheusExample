@@ -23,5 +23,5 @@ scrape_configs:
   static_configs:
   - targets:
     - localhost:9090
-    - d0e7-216-8-167-233.ngrok-free.app:80
-    # - app:8000
+    # - d0e7-216-8-167-233.ngrok-free.app:80
+    - app:8000
